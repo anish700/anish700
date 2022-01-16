@@ -3,7 +3,7 @@
 ## I'm a Student and a Developer!!
 
 - 🔭 I love problem solving and developing new applications
-- 🌱 I’m currently learning Javascript and NodeJS
+- 🌱 I’m currently working on backend development
 
 ### Connect with me:
 
