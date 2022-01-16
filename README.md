@@ -1,6 +1,6 @@
 ### Hi there, I'm Anish 👋
 
-## I'm a Student and a Developer!!
+## I'm a Software Developer!!
 
 - 🔭 I love problem solving and developing new applications
 - 🌱 I’m currently working on backend development
