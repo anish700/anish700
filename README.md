@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!!
 
-- 🔭 I love problem solving and developing new applications
+- 🔭 Problem solver at the core
 - 🌱 I’m currently working on backend development
 
 ### Connect with me:
