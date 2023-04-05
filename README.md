@@ -1,6 +1,6 @@
 ### Hi there, I'm Anish 👋
 
-## I'm a Software Developer!!
+## I'm a Software Engineer!!
 
 - 🔭 Problem solver at the core
 - 🌱 I’m currently working on backend development
